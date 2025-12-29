@@ -1,0 +1,15 @@
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/bin/Debug/net8.0/praticando-oo-classes
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/bin/Debug/net8.0/praticando-oo-classes.deps.json
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/bin/Debug/net8.0/praticando-oo-classes.runtimeconfig.json
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/bin/Debug/net8.0/praticando-oo-classes.dll
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/bin/Debug/net8.0/praticando-oo-classes.pdb
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.AssemblyInfoInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.AssemblyInfo.cs
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.csproj.CoreCompileInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.sourcelink.json
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.dll
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/refint/praticando-oo-classes.dll
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.pdb
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/praticando-oo-classes.genruntimeconfig.cache
+/home/daniel/projetcs/alura/csharp/praticando-oo-classes/obj/Debug/net8.0/ref/praticando-oo-classes.dll
